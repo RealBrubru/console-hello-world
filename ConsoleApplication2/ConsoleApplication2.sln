@@ -7,14 +7,14 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "Cons
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|Any CPU = Debug|Any CPU
-		Release|Any CPU = Release|Any CPU
+		Debug 4.5|Any CPU = Debug 4.5|Any CPU
+		Release 4.5|Any CPU = Release 4.5|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.5|Any CPU.ActiveCfg = Release 4.5|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.5|Any CPU.Build.0 = Release 4.5|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.5|Any CPU.ActiveCfg = Release 4.5|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.5|Any CPU.Build.0 = Release 4.5|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
