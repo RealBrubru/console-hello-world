@@ -11,6 +11,7 @@
     <AssemblyName>ConsoleApplication2</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug 4.5|AnyCPU' ">
     <PlatformTarget>AnyCPU</PlatformTarget>
@@ -56,6 +57,9 @@
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="ConsoleApplicationLib">
+      <HintPath>C:\TeamCity\buildAgent\work\bf8699e34dd24d27\ConsoleApplicationLib\bin\net45\Release\ConsoleApplicationLib.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
