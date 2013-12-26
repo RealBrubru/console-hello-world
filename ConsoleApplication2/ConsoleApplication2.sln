@@ -5,22 +5,37 @@ VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication2", "ConsoleApplication2.csproj", "{2A3732E4-09BA-4644-B76C-3477CBDD56F6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplicationLib", "..\ConsoleApplicationLib\ConsoleApplicationLib.csproj", "{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug 4.0|Any CPU = Debug 4.0|Any CPU
 		Debug 4.5|Any CPU = Debug 4.5|Any CPU
+		Debug|Any CPU = Debug|Any CPU
 		Release 4.0|Any CPU = Release 4.0|Any CPU
 		Release 4.5|Any CPU = Release 4.5|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.0|Any CPU.ActiveCfg = Debug 4.0|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.0|Any CPU.Build.0 = Debug 4.0|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.5|Any CPU.ActiveCfg = Debug 4.5|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug 4.5|Any CPU.Build.0 = Debug 4.5|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug|Any CPU.ActiveCfg = Debug 4.0|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Debug|Any CPU.Build.0 = Debug 4.0|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.0|Any CPU.ActiveCfg = Release 4.0|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.0|Any CPU.Build.0 = Release 4.0|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.5|Any CPU.ActiveCfg = Release 4.5|Any CPU
 		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release 4.5|Any CPU.Build.0 = Release 4.5|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release|Any CPU.ActiveCfg = Release 4.0|Any CPU
+		{2A3732E4-09BA-4644-B76C-3477CBDD56F6}.Release|Any CPU.Build.0 = Release 4.0|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Debug 4.0|Any CPU.ActiveCfg = Debug 4.0|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Debug 4.5|Any CPU.ActiveCfg = Debug 4.5|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Debug|Any CPU.ActiveCfg = Debug 4.0|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Release 4.0|Any CPU.ActiveCfg = Release 4.0|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Release 4.0|Any CPU.Build.0 = Release 4.0|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Release 4.5|Any CPU.ActiveCfg = Release 4.5|Any CPU
+		{3E44E1B7-1E5F-454B-B3B7-1F6D59CE9013}.Release|Any CPU.ActiveCfg = Release 4.0|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
